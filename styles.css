@@ -1,0 +1,9 @@
+
+head{
+#grad1 {
+height: 200px;
+background-color: green;
+background-image: linear-gradient(green, blue);
+
+}
+}
