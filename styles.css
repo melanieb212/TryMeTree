@@ -1,9 +1,6 @@
 
-head{
-#grad1 {
-height: 200px;
-background-color: green;
-background-image: linear-gradient(green, blue);
+body{
 
-}
+  background-color: green;
+  background-image: linear-gradient(lime, blue);
 }
