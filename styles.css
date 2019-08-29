@@ -1,3 +1,4 @@
-<link href="file:///C:/Users/User/Documents/GitHub/TryMeTree/TryMeTree.html"/>
- H1: {Color=blue}
- 
+<head>
+<link rel="stylesheet" type="html" href="TryMeTree.html">
+</head>
+head {color:green;}
