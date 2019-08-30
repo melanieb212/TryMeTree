@@ -18,4 +18,11 @@ body{
 
 }
 
-.Title
+.contact-form{
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+  font-size: 70px;
+}
