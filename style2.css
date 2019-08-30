@@ -85,4 +85,15 @@ div#mybody{
   background-image: url("back.jpg");
 }
 .title2{ font-size: 35px;
-font-family: Courier;}
+font-family: Courier;
+text-align: center;}
+
+.row{
+  font-family: sans-serif;
+  margin-left: 12px;
+}
+
+.offices{
+  text-align: center;
+  font-size: 26px;
+}
