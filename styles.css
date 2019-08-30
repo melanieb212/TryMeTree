@@ -1,4 +1,22 @@
+body{
+  background-color:rgb(147,230,224)
+}
 p {
- font-size:30px;}
- h5 {font-size: 50px;}
- ul{font-size:30px;}
+ font-size:30px;
+font-style: normal;
+color: darkgreen;
+font-family: sans-serif;
+}
+
+ h5 {font-size: 50px;
+ font-style: normal;
+color:black;
+font-weight: bold;
+font-family: monospace;
+}
+
+ ul{font-size:30px;
+ font-style: normal;
+color:darkgreen;
+font-family:sans-serif;
+}
