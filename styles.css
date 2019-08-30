@@ -2,9 +2,9 @@ body{
   background-color:rgb(147,230,224)
 }
 p {
- font-size:30px;
+ font-size:25px;
 font-style: normal;
-color: darkgreen;
+color: black;
 font-family: sans-serif;
 }
 
@@ -15,8 +15,12 @@ font-weight: bold;
 font-family: monospace;
 }
 
-div#list ul{font-size:30px;
+div#mel2 ul{font-size:25px;
  font-style: normal;
-color:darkgreen;
+color:white;
 font-family:sans-serif;
-background-color:rgb(147,230,224)}
+}
+.bgd {
+    background-color:rgb(147,230,224)!important;
+}
+div#title {background-color:rgb(147,230,224)}
