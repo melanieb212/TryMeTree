@@ -51,7 +51,15 @@ h1{text-align: center;}
   text-align: center;
 }
 
-.Month{
-font-size: 25px
-margin-left: 20px;
+.Month {
+  margin-left: 20px;
+  font-size: 22px;
 }
+
+.CFA{
+text-align: center;
+
+}
+
+.title{ font-size: 35px;
+font-family: Courier;}
