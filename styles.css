@@ -2,7 +2,7 @@ body{
   background-color:rgb(147,230,224)
 }
 p {
- font-size:50px;
+ font-size:30px;
 font-style: normal;
 color: darkgreen;
 font-family: sans-serif;
@@ -21,7 +21,7 @@ color:darkgreen;
 font-family:sans-serif;
 }
 
-{height="50px"}
+
 
 #mel{background-color: rgb(147,230,224)}
 .row  {background-color: rgb(147,230,224)}
