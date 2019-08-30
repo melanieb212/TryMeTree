@@ -51,11 +51,21 @@ h1{text-align: center;}
   text-align: center;
 }
 
-.Month{
-font-size: 25px
-margin-left: 20px;
+.Month {
+  margin-left: 20px;
+  font-size: 22px;
 }
 
+<<<<<<< HEAD
 .alert{
     display: none;
 }
+=======
+.CFA{
+text-align: center;
+
+}
+
+.title{ font-size: 35px;
+font-family: Courier;}
+>>>>>>> 47f73a2a7fda74ed521b1a5ddf7c6b14b3700c56
