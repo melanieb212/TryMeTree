@@ -15,15 +15,8 @@ font-weight: bold;
 font-family: monospace;
 }
 
- ul{font-size:30px;
+div#list ul{font-size:30px;
  font-style: normal;
 color:darkgreen;
 font-family:sans-serif;
-}
-
-
-
-#mel{background-color: rgb(147,230,224)}
-.row  {background-color: rgb(147,230,224)}
-.col-md-6 mb-md-0 p-md-4 {background-color: rgb(147,230,224)}
-.col-md-6 position-static p-4 pl-md-0 {background-color: rgb(147,230,224)}
+background-color:rgb(147,230,224)}
