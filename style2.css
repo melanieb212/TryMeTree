@@ -56,16 +56,13 @@ h1{text-align: center;}
   font-size: 22px;
 }
 
-<<<<<<< HEAD
-.alert{
-    display: none;
-}
-=======
 .CFA{
 text-align: center;
 
 }
 
-.title{ font-size: 35px;
+.alert{
+    display: none;
+}
+.title2{ font-size: 35px;
 font-family: Courier;}
->>>>>>> 47f73a2a7fda74ed521b1a5ddf7c6b14b3700c56
