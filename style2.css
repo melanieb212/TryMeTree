@@ -40,3 +40,18 @@ body{
 .Hadestown{
   font-size: 18px
 }
+
+.Matilda{
+  text-align: center;
+}
+h1{text-align: center;}
+
+.dates{
+  font-size: 30px;
+  text-align: center;
+}
+
+.Month{
+font-size: 25px
+margin-left: 20px;
+}
